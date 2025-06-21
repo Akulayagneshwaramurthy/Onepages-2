@@ -7,7 +7,7 @@ This project is a responsive web page built based on the design provided in the 
 - **768px**: Tablet view
 - **600px**: Mobile view
 
-[Click here to view the PDF](https://github.com/Akulayagneshwaramurthy/Onepages-2/blob/main/Home-Page%20(1).pdf)
+![Click here to view the PDF](https://github.com/Akulayagneshwaramurthy/Onepages-2/blob/main/Home-Page%20(1).pdf)
 
 The design is inspired by the layout and content structure outlined in the provided PDF, ensuring a seamless user experience across devices.
 
